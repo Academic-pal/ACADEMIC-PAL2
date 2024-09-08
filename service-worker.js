@@ -8,7 +8,7 @@ self.addEventListener('install', event => {
           '/manifest.json',
           '/style.css',
           '/app.js',
-          '/home'
+          '/home/index.html'
         ]);
       })
     );
