@@ -9,5 +9,5 @@ if ('serviceWorker' in navigator) {
   }
 
   document.querySelector('.enter-button').addEventListener('click', () => {
-    window.location.href = 'home/';
+    window.location.href = '/home';
   });
